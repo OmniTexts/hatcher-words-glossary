@@ -81,10 +81,22 @@ def generate_index(grouped):
 
     lines.append("\n---\n## Alphabetical Index / 字母索引\n")
 
-    # Create links for each letter
+    # Create links for each letter with hanzi list
     for letter in sorted(grouped.keys()):
-        count = len(grouped[letter])
-        lines.append(f"- [{letter.upper()}]({letter}.md) - {count} entries")
+        entries = grouped[letter]
+        count = len(entries)
+        # Get unique hanzi for this letter (in order of appearance)
+        hanzi_list = []
+        seen = set()
+        for entry in entries:
+            h = entry['hanzi']
+            if h not in seen:
+                hanzi_list.append(h)
+                seen.add(h)
+        hanzi_str = ' '.join(hanzi_list)
+        # Pluralize "entry" if needed
+        entry_word = "entry" if count == 1 else "entries"
+        lines.append(f"- **[{letter.upper()}]({letter}.md)** - {count} {entry_word}: {hanzi_str}")
 
     return '\n'.join(lines)
 
