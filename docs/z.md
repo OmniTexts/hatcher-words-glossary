@@ -4,7 +4,7 @@
 |------|------|---------|-----|------|------|------|
 | za2 | 雜 | 6646 | 691d | 172+10 | none | (to be) miscellaneous, assorted, various, of various kinds, variegated; mixed (u... |
 | zai1 | 哉 | 6650 | 943v | 30+6 | 01.T | here, indeed, in fact; now, currently, this day; (a, the) admiration, surprise, ... |
-| zai1 | 烖 | 6652 | 940a | 86+3 | 24.6 | (a, the) disaster, calamity, adversity, hurt, misfortune, crisis, accident, inju... |
+| zai1 | 災 | 6652 | 940a | 86+3 | 24.6 | (a, the) disaster, calamity, adversity, hurt, misfortune, crisis, accident, inju... |
 | zai4 | 載 | 6653 | 943a | 159+6 | 09.6 | (to) carry (on), hold up, uphold, sustain, bear, keep, transport, haul, convey, ... |
 | zai4 | 在 | 6657 | 943i | 32+3 | 01.2 | (to be) (still) in, within, inside, amidst; at, here; present, current, placed, ... |
 | ze2 | 澤 | 0277 | 790o | 85+13 | 10.X | (a, the) lake, pool, pond, body of water, wetland, swamp, marsh, moisture; open ... |

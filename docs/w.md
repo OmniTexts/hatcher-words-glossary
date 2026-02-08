@@ -7,7 +7,7 @@
 | wang2 | 亡 | 7034 | 742a | 8+1 | 11.2 | (to) pass (on, away), go away, run away, disappear, vanish, move on, escape, fle... |
 | wang4 | 妄 | 7035 | 742g | 38+3 | 25.0 | (a, the) presumption, pretense, expectation, falseness, duplicity, pretext, guil... |
 | wang2 | 王 | 7037 | 739a | 96+0 | 02.3 | (a, the) king, lord, leader, prince, sovereign, ruler; founder, authority (s); r... |
-| wang3 | 徃 | 7050 | 739k | 60+5 | 02.0 | (to go) forward, on, to, towards, onwards, ahead, that way, forth; (to) proceed,... |
+| wang3 | 往 | 7050 | 739k | 60+5 | 02.0 | (to go) forward, on, to, towards, onwards, ahead, that way, forth; (to) proceed,... |
 | wei2 | 爲 | 7059 | 27a | 87+8 | 04.6 | (to) accomplish, act (as, as if, as though, like, for, out), achieve, adopt (as)... |
 | wei3 | 尾 | 7109 | 583a | 44+4 | 10.0 | (a, the) tail, end, loose ends; remainder, balance, details, [trail]; (to be) la... |
 | wei4 | 未 | 7114 | 531a | 75+1 | 48.0 | (to be, is, are, has, have) not yet, less than, still not, yet to (be), as yet (... |

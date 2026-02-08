@@ -16,7 +16,7 @@
 | yi2 | 夷 | 2982 | 551a | 37+3 | 36.0 | (to be) hidden, obscure(d), covered, covert, kept out of sight, suppressed, repr... |
 | yi2 | 宜 | 2993 | 21a | 40+5 | 19.5 | (to be) appropriate, fit, fitting, proportionate, meet, proper, right, due, seem... |
 | yi4 | 義 | 3002 | 2r | 123+7 | 05.T | (to) mean, signify, suggest, advise, indicate, warrant, merit, plan rightly, fun... |
-| yi1 | 弌 | 3016 | 394a | 1+0 | 38.6 | (a, the) one; integrity, oneness, uniformity, union, unit, point, unity, whole (... |
+| yi1 | 一 | 3016 | 394a | 1+0 | 38.6 | (a, the) one; integrity, oneness, uniformity, union, unit, point, unity, whole (... |
 | yi4 | 亦 | 3021 | 800a | 8+4 | 48.0 | (and) also, then, only, further, so, still; yet, too, moreover, furthermore, lik... |
 | yi4 | 邑 | 3037 | 683a | 163+0 | 06.2 | (a, the) town, village, district, city, fiefdom, settlement, home town, townsite... |
 | yi4 | 翼 | 3051 | 954d | 124+11 | 36.1 | (a, the) Wings, flanks, aids, defenses; appendices, commentaries; (to) assist, s... |

@@ -17,7 +17,7 @@
 | jiao1 | 交 | 0702 | 1166a | 8+4 | 14.1 | (to) interact, communicate, interrelate, have reations with, contact, exchange, ... |
 | jie3 | 觧 | 0626 | 861a | 148+6 | 40.0 | (to) release, relieve, discharge, let go (of), dispel, allay, dismiss, loosen, u... |
 | jie2 | 節 | 0795 | 399e | 118+8 | 60.0 | (to be) restrained, constrained, moderate, temperate, controlled, limited, regul... |
-| jin1 | 釒 | 1057 | 652a | 167+0 | 04.3 | (a, the) metal, bronze, money, wealth, funds, funding, fines, fees, gold, coins,... |
+| jin1 | 金 | 1057 | 652a | 167+0 | 04.3 | (a, the) metal, bronze, money, wealth, funds, funding, fines, fees, gold, coins,... |
 | jin4 | 晋 | 1088 | 378a | 72+6 | 35.0 | (to) advance, progress, grow, develop, extend, prosper, increase, improve, enter... |
 | jin4 | 進 | 1091 | 379a | 162+8 | 20.3 | (to) advance, climb, move/send/bring forward; press, push, go, urge (ahead/forwa... |
 | jing1 | 經 | 1123 | 831c | 120+7 | 27.2 | (a, the) classic, classic book, scripture, canon, norm, standard, practice, cons... |
