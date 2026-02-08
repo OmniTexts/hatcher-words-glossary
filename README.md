@@ -95,6 +95,16 @@ python extract_glossary.py
   - Mathews' Chinese-English Dictionary
   - Karlgren's Grammata Serica Recensa (GSR)
 
+## Related Resources / 相关资源
+
+This glossary is part of a broader effort to digitize and structure the Yijing (I Ching) tradition. For a comprehensive online resource featuring:
+
+- **Yijing Divination Methods**: Detailed guides on both yarrow stalk (蓍草) and coin (铜钱) divination methods
+- **Welham Translation**: An alternative translation of the Yijing text
+- **Bradford Hatcher's Structured Edition**: The internet's first structured presentation of Hatcher's 1,100-page Yijing translation, organized for digital access
+
+Visit [castiching.com](https://castiching.com) and explore the [Bradford Hatcher collection](https://castiching.com/bradford-hatcher).
+
 ## License
 
 This glossary data is extracted from published academic sources. Please refer to the original works for citation and licensing information.
