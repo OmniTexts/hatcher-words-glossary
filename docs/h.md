@@ -19,6 +19,6 @@
 | huan4 | 渙 | 2252 | 167b | 85+9 | 59.0 | (a, the) diffusion, sublimation, distillation, evaporation, rarifaction, broadca... |
 | huang2 | 黃 | 2297 | 707a | 201+0 | 02.5 | (to be) golden, yellow, harvest gold, yellow brown, earth yellow; (color of the ... |
 | hui3 | 悔 | 2336 | 947s | 61+7 | 01.6 | (a. the) regret(s), repentance, remorse, contrition; (to) regret, repent (s, ed,... |
-| huo3 | 灬 | 2395 | 353a | 86+0 | 13.X | (a, the) fire, flame, light (s) |
+| huo3 | 火 | 2395 | 353a | 86+0 | 13.X | (a, the) fire, flame, light (s) |
 | huo4 | 或 | 2402 | 929a | 62+4 | 01.4 | perhaps (...or maybe); may/might (be); (most) likely, maybe, perchance, possibly... |
 | huo4 | 獲 | 2412 | 784d | 94+14 | 17.4 | (to) capture, catch, take, take in hunting, trap, net, hit, seize, grasp, hold, ... |

@@ -24,11 +24,11 @@
 | shi4 | 是 | 5794 | 866a | 72+5 | 62.6 | (and) so it is (that), (it) is (...) that, true; (and) so there/one/they is/are/... |
 | shi1 | 失 | 5806 | 402a | 37+2 | 08.5 | (to) dismiss, disregard, err, fail, forget, forgo, go back on, give up, let go o... |
 | shi2 | 十 | 5807 | 686a | 24+0 | 03.2 | (a, the) ten; ten times, tenfold, tenth; -ty |
-| shi2 | 飠 | 5810 | 921a | 184+0 | 05.5 | (a, the) food, feed, feast, nourishment, sustenance, subsistence, refreshment, m... |
+| shi2 | 食 | 5810 | 921a | 184+0 | 05.5 | (a, the) food, feed, feast, nourishment, sustenance, subsistence, refreshment, m... |
 | shi2 | 實 | 5821 | 398a | 40+11 | 27.0 | (a, the) substance, reality, effect, result, fruit, fruition, manifestation, dev... |
 | shou3 | 首 | 5839 | 1102a | 185+0 | 01.7 | (a, the) head, leader, chief, superior, first, first principle, face, lead, fore... |
 | shou4 | 受 | 5840 | 1085a | 29+6 | 35.2 | (to) accept, receive, inherit, succeed, enjoy; be given, have been given, have r... |
-| shui3 | 氵 | 5922 | 576a | 85+0 | 06.X | (a, the) water(s); river, current, fluid, flood; (to be) aquatic, watery, liquid... |
+| shui3 | 水 | 5922 | 576a | 85+0 | 06.X | (a, the) water(s); river, current, fluid, flood; (to be) aquatic, watery, liquid... |
 | shun4 | 順 | 5935 | 462c | 181+3 | 02.T | (to) agree (to), accept, adopt, adapt, comply, follow, obey, respond, yield, all... |
 | shuo1 | 說 | 5939 | 324q | 149+7 | 04.1 | (to) remove, take off, let loose, set free, set down release, relax, loosen, uns... |
 | si4 | 四 | 5598 | 518a | 31+2 | 16.T | (a, the) four; four times; foursome; (to be) quadruple, fourfold, fourth; surrou... |

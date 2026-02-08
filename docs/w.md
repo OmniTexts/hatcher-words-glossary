@@ -4,7 +4,7 @@
 |------|------|---------|-----|------|------|------|
 | wai4 | 外 | 7001 | 322a | 36+2 | 08.4 | (to be) beyond, outer, outside, outward, without, elsewhere, abroad, out (of), e... |
 | wan4 | 萬 | 7030 | 267a | 140+9 | 01.T | (a, the) ten thousand, myriad, host; (to be) countless, many, numerous; all, all... |
-| wang2 | 兦 | 7034 | 742a | 8+1 | 11.2 | (to) pass (on, away), go away, run away, disappear, vanish, move on, escape, fle... |
+| wang2 | 亡 | 7034 | 742a | 8+1 | 11.2 | (to) pass (on, away), go away, run away, disappear, vanish, move on, escape, fle... |
 | wang4 | 妄 | 7035 | 742g | 38+3 | 25.0 | (a, the) presumption, pretense, expectation, falseness, duplicity, pretext, guil... |
 | wang2 | 王 | 7037 | 739a | 96+0 | 02.3 | (a, the) king, lord, leader, prince, sovereign, ruler; founder, authority (s); r... |
 | wang3 | 徃 | 7050 | 739k | 60+5 | 02.0 | (to go) forward, on, to, towards, onwards, ahead, that way, forth; (to) proceed,... |

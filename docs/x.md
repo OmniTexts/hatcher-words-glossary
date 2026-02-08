@@ -15,7 +15,7 @@
 | xiang1 | 相 | 2562 | 731a | 109+4 | 13.5 | (to be) complementary, cooperative, mutual, correlative, reciprocal, reciprocate... |
 | xiang4 | 象 | 2568 | 728a | 152+5 | 23.T | (a, the) image, imagery, figure, configuration, symbol, symbolism, picture, mode... |
 | xiao3 | 小 | 2605 | 1149a | 42+0 | 03.5 | (to be) average, common, diminished, homogeneous, humble, insignificant, lesser,... |
-| xin1 | 忄 | 2735 | 663a | 61+0 | 29.0 | (a, the) heart, mind; affection, conscience, desire, disposition, emotion, feeli... |
+| xin1 | 心 | 2735 | 663a | 61+0 | 29.0 | (a, the) heart, mind; affection, conscience, desire, disposition, emotion, feeli... |
 | xin4 | 信 | 2748 | 384a | 9+7 | 43.4 | (a, the) assurance, belief, comprehension, confidence, collateral, conviction, c... |
 | xing2 | 行 | 2754 | 748a | 144+0 | 11.2 | (to) advance, go (forward, forth), circulate, come and go, develop, go about, jo... |
 | xiong1 | 凶 | 2808 | 1183a | 17+2 | 03.5 | (to be) unfortunate, ill-omened, inauspicious, bitter, unlucky, unlikely, untime... |
